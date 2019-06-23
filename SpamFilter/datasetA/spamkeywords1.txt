@@ -1,0 +1,8 @@
+threat
+alert
+warning
+advertise
+danger
+malware
+wannacry
+codered
